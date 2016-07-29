@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#5B3C20'
+    - '#FFFFFF'
+    - '#654327'
+    - '#7D5434'
+    - '#F5F3F1'
+  brandStrength: 0.675987
+  lightness: 0.681789
+  rhythmicContrast: 0.734667
+  saturation: 0.671617
+layout_spectrum: 0.215461
+name: The Cookie Factory
+typography_spectrum: 0.106908
